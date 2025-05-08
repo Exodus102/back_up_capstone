@@ -1,0 +1,144 @@
+{
+    "sections": [
+        {
+            "sectionNumber": 1,
+            "questions": [
+                {
+                    "question": "Angono",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Antipolo",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Binangonan",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Cainta",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Cardona",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Morong",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Pililia",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Rodriguez",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Tanay",
+                    "isRequired": 0
+                },
+                {
+                    "question": "TayTay",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Top Management",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Office of the President",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Academic Affairs",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Administration and Finance Division",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Research, Development, Extension and Production Division",
+                    "isRequired": 0
+                },
+                {
+                    "question": "William James Lagonoy",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Campus Directors",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Campus Management Information System",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Campus Planning, Monitoring and Evaluation",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Jenrick",
+                    "isRequired": 0
+                }
+            ],
+            "isRequired": 0,
+            "type": "static_1"
+        },
+        {
+            "sectionNumber": 2,
+            "questions": [
+                {
+                    "question": "Student",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Faculty",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Alumni",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Parent",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Staff",
+                    "isRequired": 0
+                },
+                {
+                    "question": "Other",
+                    "isRequired": 0
+                }
+            ],
+            "isRequired": 0,
+            "type": "static_2"
+        },
+        {
+            "sectionNumber": 3,
+            "questions": [
+                {
+                    "question": "Custom Question",
+                    "isRequired": 0
+                }
+            ],
+            "isRequired": 0,
+            "type": "dynamic"
+        },
+        {
+            "sectionNumber": 4,
+            "questions": [
+                {
+                    "question": "Custom Question",
+                    "isRequired": 0
+                }
+            ],
+            "isRequired": 0,
+            "type": "dynamic"
+        }
+    ]
+}
